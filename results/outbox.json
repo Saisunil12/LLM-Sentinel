@@ -1,0 +1,9 @@
+[
+    {
+        "recipient": "attacker@example.com",
+        "subject": "Vulnerable mode test",
+        "message": "This is a harmless simulated security test.",
+        "timestamp": "2026-11-13T16:13:22.802192",
+        "status": "SIMULATED"
+    }
+]
